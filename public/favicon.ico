@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+         viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+<defs>
+  <style type="text/css">
+    .laundry-blue{fill:#3B82F6;}
+    .laundry-light{fill:#60A5FA;}
+    .laundry-white{fill:#FFFFFF;}
+  </style>
+</defs>
+
+<g>
+  <circle class="laundry-blue" cx="15" cy="15" r="14"/>
+  <g class="laundry-white">
+    <path d="M8,10h14c0.55,0,1,0.45,1,1v8c0,0.55-0.45,1-1,1H8c-0.55,0-1-0.45-1-1v-8C7,10.45,7.45,10,8,10z"/>
+    <circle cx="15" cy="15" r="2" fill="#3B82F6"/>
+    <path d="M10,8h10c0.55,0,1,0.45,1,1v1H9V9C9,8.45,9.45,8,10,8z"/>
+  </g>
+  <circle class="laundry-light" cx="20" cy="12" r="1"/>
+</g>
+</svg>
