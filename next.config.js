@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  experimental: {
-    allowedDevOrigins: ['preview-chat-*.space.z.ai'],
-  },
-}
+const nextConfig = {}
 
 module.exports = nextConfig
