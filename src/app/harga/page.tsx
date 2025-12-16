@@ -6,7 +6,7 @@ export default function HargaPage() {
         { service: "Laundry Kiloan Reguler", price: "Rp 10.000/kg", minOrder: "min. 3 kg", time: "24-48 jam", popular: true },
         { service: "Laundry Kiloan Express", price: "Rp 15.000/kg", minOrder: "min. 2 kg", time: "6-12 jam", popular: false },
         { service: "Cuci Saja", price: "Rp 7.000/kg", minOrder: "min. 3 kg", time: "24 jam", popular: false },
-        { service: "Setrika Saja", price: "Rp 8.000/kg", minOrder: "min. 2 kg", time: "6-12 jam", popular: false }
+        { service: "Setrika Saja", price: "Rp 9.000/kg", minOrder: "min. 2 kg", time: "6-12 jam", popular: false }
       ]
     },
     {
