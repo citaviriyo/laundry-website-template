@@ -164,7 +164,7 @@ export default function Home() {
       {/* Simple Footer */}
       <footer className="bg-gray-800 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p className="mb-2">© 2025 KilauCuci Laundry & Dry Clean. All rights reserved.</p>
+          <p className="mb-2">© 2026 KilauCuci Laundry & Dry Clean. All rights reserved.</p>
           <p className="text-gray-400 text-sm">Website by Studio Web Salim</p>
         </div>
       </footer>
